@@ -1,8 +1,8 @@
 #box{
-    width:  200px;
+    width:  150px;
     height: 100px;
     background-color: grey;
-    color: white;
+    color: darkpink;
     font-size: 2rem;
     display: flex;
     align-items: center;
