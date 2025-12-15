@@ -16,7 +16,7 @@
     padding: 2px;
 }
 
-#pic:hoover{   
+#pic:hover{   
     transform:rotateZ(20deg);
 }
     
