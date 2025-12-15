@@ -1,8 +1,8 @@
-#pic img{
+#pic {
       height: 200px;
       border: 2px solid black;
       padding: 2px;
 }
-#pic:hover img {
+#pic:hover {
   transform:rotateZ(20deg);
 }
