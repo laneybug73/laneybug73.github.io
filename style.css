@@ -1,9 +1,9 @@
 #box{
-    width:  200px;
+    width:  150px;
     height: 100px;
     background-color: black;
     color: white;
-    font-size: 2rem;
+    font-size: 1rem;
     display: flex;
     align-items: center;
     justify-content: center;
