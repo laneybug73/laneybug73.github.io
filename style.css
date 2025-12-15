@@ -8,3 +8,16 @@
     align-items: center;
     justify-content: center;
 }
+
+#pic{
+    width:200px;
+    border: 2px solid pink;
+    padding: 2px;
+}
+
+#pic:hoover{
+    opacity: 0.5
+    border: 2px solid black;
+    padding: 10px;
+}
+    
