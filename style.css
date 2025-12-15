@@ -9,14 +9,3 @@
     justify-content: center;
 }
 
-#pic{
-    width:200px;
-    height: 200px;
-    border: 2px solid pink;
-    padding: 2px;
-}
-
-#pic:hover{   
-    transform:rotateZ(20deg);
-}
-    
